@@ -10,28 +10,28 @@ const Portfolio = () => {
       id: 1,
       title: "Dark Angel Portrait",
       category: "Character Art",
-      image: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=800",
+      image: "https://ibb.co/C3HSYhpx?auto=compress&cs=tinysrgb&w=800",
       description: "Gothic angel with dark wings and haunting beauty"
     },
     {
       id: 2,
       title: "Crimson Shadows",
       category: "Digital Art",
-      image: "https://images.pexels.com/photos/1762851/pexels-photo-1762851.jpeg?auto=compress&cs=tinysrgb&w=800",
+      image: "https://ibb.co/TMtvWC4c?auto=compress&cs=tinysrgb&w=800",
       description: "Dark fantasy portrait with crimson lighting"
     },
     {
       id: 3,
       title: "Gothic Romance",
       category: "Illustration",
-      image: "https://images.pexels.com/photos/1183992/pexels-photo-1183992.jpeg?auto=compress&cs=tinysrgb&w=800",
+      image: "https://ibb.co/N6NRKRsM?auto=compress&cs=tinysrgb&w=800",
       description: "Romantic gothic scene with dramatic atmosphere"
     },
     {
       id: 4,
       title: "Demon's Embrace",
       category: "Character Art",
-      image: "https://images.pexels.com/photos/1367269/pexels-photo-1367269.jpeg?auto=compress&cs=tinysrgb&w=800",
+      image: "https://ibb.co/Q78jP52V?auto=compress&cs=tinysrgb&w=800",
       description: "Dark demon character with intricate details"
     },
     {
