@@ -63,7 +63,7 @@ const Hero = () => {
             </p>
 
             <p className="text-lg md:text-xl text-red-300 mb-12 max-w-3xl mx-auto leading-relaxed">
-              Welcome to my realm of shadows and creativity. I craft dark, beautiful art that speaks to the soul 
+              TEST TEST TEST Welcome to my realm of shadows and creativity. I craft dark, beautiful art that speaks to the soul 
               and brings your darkest fantasies to life through digital illustration.
             </p>
 
