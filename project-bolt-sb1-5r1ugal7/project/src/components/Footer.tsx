@@ -51,7 +51,7 @@ const Footer = () => {
               <ul className="space-y-2 text-sm">
                 <li>
                   <a href="#portfolio" className="text-red-300 hover:text-red-400 transition-colors duration-200">
-                    Dark Gallery
+                    Gallery
                   </a>
                 </li>
                 <li>
